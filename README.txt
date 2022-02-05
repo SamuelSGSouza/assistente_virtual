@@ -1,4 +1,4 @@
-#Grande Sábio
+##Assistente Virtual
 
 Um assistente virtual desenvolvido em Python
 
@@ -10,6 +10,6 @@ Foco:
 
 Tecnologias:
     Reconhecimento de voz (api e arquivos do Vosk)
-    Síntese de voz
+    Síntese de voz (pyttsx3)
     Algum tipo de IA
 
